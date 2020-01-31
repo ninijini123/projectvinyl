@@ -28,6 +28,7 @@ public class JY_BuyAction implements Action {
 		int mem_no = 1;
 		int item_no = 1;
 	
+		// 
 		
 		if(memno!=null &&!("".equals(memno))) {
 			mem_no = Integer.parseInt(memno);
