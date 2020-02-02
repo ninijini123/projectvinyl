@@ -38,7 +38,7 @@ position:relative;
     border: 1px solid #757575;
     border-radius: 5px;
     font-family:10X10;
-}
+} 
 .ej_txtsearch{
 width:72%;
 border: 1px transparent;}
